@@ -7,6 +7,14 @@ img{
   box-sizing: border-box;
 }
 
+.status-bar {
+  position: fixed;
+
+}
+
+.nav {
+
+}
 .app {
   margin: 0 auto;
   width: auto;
@@ -15,15 +23,14 @@ img{
   overflow-y: scroll;
   box-shadow:0 0px 4px rgba(0, 0, 0, 0.2);
   position: absolute;
-
 }
 
 .rectangle {
-  background-color: #2D9CDB;
   width: 375px;
   height: 311px;
-  position: absolute;
   margin: auto;
+  background-color: #2D9CDB;
+
 }
 
 
