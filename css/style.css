@@ -9,7 +9,7 @@ img{
 
 .status-bar {
   position: fixed;
-
+  margin-bottom: 20px;
 }
 
 .nav {
@@ -33,19 +33,12 @@ img{
 
 }
 
-
 .back-arrow {
   position: absolute;
   width: 20px;
   margin: 15px 5px 15px 5px;
 }
 
-.status-bar {
-  margin: 0 auto;
-  width: 375px;
-  background-color: #2D9CDB;
-  background-attachment:fixed;
-}
 
 .location-button {
   border: 1px solid white;
