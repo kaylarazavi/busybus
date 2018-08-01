@@ -13,8 +13,11 @@ img{
 }
 
 .nav {
-
+  padding-top: 15px;
 }
+
+
+
 .app {
   margin: 0 auto;
   width: auto;
