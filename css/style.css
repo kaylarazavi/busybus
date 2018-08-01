@@ -10,6 +10,7 @@ img{
 .status-bar {
   position: fixed;
   margin-bottom: 20px;
+  z-index: 10;
 }
 
 .nav {
