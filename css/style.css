@@ -7,6 +7,8 @@ img{
   box-sizing: border-box;
 }
 
+
+
 .status-bar {
   position: fixed;
   margin-bottom: 20px;
@@ -17,22 +19,10 @@ img{
   padding-top: 15px;
 }
 
-
-
-.app {
-  margin: 0 auto;
-  width: auto;
-  height: 657px;
-  min-width: 375px;
-  overflow-y: scroll;
-  box-shadow:0 0px 4px rgba(0, 0, 0, 0.2);
-  position: absolute;
-}
-
 .rectangle {
   width: 375px;
   height: 311px;
-  margin: auto;
+  margin: 0 auto;
   background-color: #2D9CDB;
 
 }
@@ -127,4 +117,13 @@ li div {
   background-size: 20px auto;
   background-repeat: no-repeat;
   padding-right: 20px;
+}
+
+
+.app {
+  margin: 0 auto;
+  width: 375px;
+  height: 657px;
+  overflow-y: scroll;
+  box-shadow:0 0px 4px rgba(0, 0, 0, 0.2);
 }
